@@ -264,3 +264,9 @@ figure{
     height: inherit;
     flex-wrap: inherit;
 }
+
+.project-details .link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
